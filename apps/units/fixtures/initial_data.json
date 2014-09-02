@@ -1,0 +1,4 @@
+{"fields": {"status": true, "name": "unit1", "desc": "blah"},
+    "model": "units.unit", "pk": 1},
+{"fields": {"status": true, "name": "unit2", "desc": "blah blah"},
+    "model": "units.unit", "pk": 2}]
